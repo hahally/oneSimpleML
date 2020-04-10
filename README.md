@@ -4,6 +4,8 @@
 I know nothing but my ignorance.
 ```
 
+#### A brief introduction
+
 > 来自刚入坑机器学习的大学生所做的一点点学习记录。参考资料是经典教材周志华老师的《机器学习》又名西瓜书。书中公式推导很多，自己差点没自闭劝退。若推导不是很懂，建议参考 **[南瓜书](https://datawhalechina.github.io/pumpkin-book/#/)** 。
 
 
@@ -13,4 +15,4 @@ I know nothing but my ignorance.
 
 - …
 
-### 未完待续...
+#### To be continued...
